@@ -1,14 +1,12 @@
-
-# Hey 👋, I'm Matheus da Costa
-Full Stack developer from Brazil
-### Stats:
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dcmatheus&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcmatheus&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-### Tools:
-
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap" rel="stylesheet">
+<div style="font-family: 'Roboto Mono', monospace">
+  
+  ### Hey👋
+  I'm Matheus da Costa, Full Stack developer from Brazil.
+  
+  #### Tools:
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
@@ -81,10 +79,18 @@ Full Stack developer from Brazil
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 
-<h3 align="left">Connect with me:</h3>
+  #### Stats:
+  <div align="left">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dcmatheus&show_icons=true&theme=dracula&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcmatheus&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+
+  #### Connect with me:
   <a href="https://www.linkedin.com/in/dcmatheus/" target="_blank">
       <img width="120px" src="https://i.imgur.com/twkI2be.png" alt="Linkedin" />
   </a>
   <a href="mailto:mathws.costag@gmail.com" target="_blank">
     <img width="120px" src="https://i.imgur.com/a8RlM51.png" alt="Email" />
   </a>
+
+<div/>
