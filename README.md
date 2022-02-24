@@ -1,5 +1,5 @@
 
-# Hey wave, I'm Matheus da Costa
+# Hey 👋, I'm Matheus da Costa
 Full Stack developer from Brazil
 ### Stats:
 <div align="left">
