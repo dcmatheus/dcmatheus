@@ -79,11 +79,3 @@ I'm Matheus da Costa, Full Stack developer from Brazil.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dcmatheus&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcmatheus&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-#### Connect with me:
-<a href="https://www.linkedin.com/in/dcmatheus/" target="_blank">
-    <img width="120px" src="https://i.imgur.com/twkI2be.png" alt="Linkedin" />
-</a>
-<a href="mailto:mathws.costag@gmail.com" target="_blank">
-  <img width="120px" src="https://i.imgur.com/a8RlM51.png" alt="Email" />
-</a>
